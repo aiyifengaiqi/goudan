@@ -1,0 +1,31 @@
+/*头部开始*/
+.header{
+	background: url(../images/header_bg.jpg) 0 0 no-repeat;
+	width: 100%;
+	height: 150px;
+}
+.header .header_center{
+	width: 952px;
+	margin: 0 auto;
+}
+.header .header_center .header_top .ht_left{
+	float: left;
+	margin-left: 258px;
+}
+.header .header_center .header_top .ht_right{
+	float:right;
+}
+.ht_right ul li{
+	float: left;
+	line-height: 24px;
+	width: 50px;
+}
+.ht_right ul li.icons{
+	width: 20px;
+}
+.ht_right ul li.lines{
+	width: 10px;
+}
+.ht_right ul li.carts{
+	width: 40px;
+}
